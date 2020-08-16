@@ -1,4 +1,4 @@
-package com.edhn.commons.code;
+package com.edhn.commons.stat;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
